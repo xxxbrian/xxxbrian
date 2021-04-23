@@ -1,12 +1,13 @@
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=xxxbrian&show_icons=true&&theme=default&hide=["contribs"]&&hide_title=true' /> 
 
-### Hi there 👋
+### Hi there! 👋
 
-Hi, I'm [xxxbrian](https://github.com/xxxbrian), a Student 🌐 studying at the University of New South Wales. 	🎓
-
-💬 Ask me about anything [here](https://github.com/xxxbrian/xxxbrian/issues).
+Hi, I'm [xxxbrian](https://github.com/xxxbrian), 
+a Student studying at the University of New South Wales. 	🎓
 
 📫 bojin.li@student.unsw.edu.au
+
+💬 Ask me about anything [here](https://github.com/xxxbrian/xxxbrian/issues).
 
 <!--
 ![](https://visitor-badge.laobi.icu/badge?page_id=xxxbrian.xxxbrian)
