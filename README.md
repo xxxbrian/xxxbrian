@@ -1,6 +1,6 @@
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=xxxbrian&show_icons=true&&theme=default&hide=["contribs"]&&hide_title=true' /> 
 
-### Hi there! 👋
+### __Hi there!__ 👋
 
 Hi, I'm [xxxbrian](https://github.com/xxxbrian), 
 a __Student__ studying at the University of New South Wales. 	🎓
