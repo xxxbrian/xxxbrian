@@ -1,5 +1,12 @@
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=xxxbrian&show_icons=true&&theme=default&hide=["contribs"]&&hide_title=true' /> 
+
 ### Hi there 👋
 
+Hi, I'm [xxxbrian](https://github.com/xxxbrian).
+
+💬 Ask me about anything [here](https://github.com/xxxbrian/xxxbrian/issues).
+
+![](https://visitor-badge.laobi.icu/badge?page_id=xxxbrian.xxxbrian)
 <!--
 **xxxbrian/xxxbrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
