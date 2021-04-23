@@ -2,12 +2,15 @@
 
 ### Hi there 👋
 
-Hi, I'm [xxxbrian](https://github.com/xxxbrian).
+Hi, I'm [xxxbrian](https://github.com/xxxbrian), a Student 🌐 studying at the University of New South Wales. 	🎓
 
 💬 Ask me about anything [here](https://github.com/xxxbrian/xxxbrian/issues).
 
-![](https://visitor-badge.laobi.icu/badge?page_id=xxxbrian.xxxbrian)
+📫 bojin.li@student.unsw.edu.au
+
 <!--
+![](https://visitor-badge.laobi.icu/badge?page_id=xxxbrian.xxxbrian)
+
 **xxxbrian/xxxbrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
