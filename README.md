@@ -3,7 +3,7 @@
 ### __Hi there!__ 👋
 
 Hi, I'm [xxxbrian](https://github.com/xxxbrian), 
-a __Student__ studying at the University of New South Wales. 	🎓
+a __Student__ studying at the ___University of New South Wales___. 	🎓
 
 📫 bojin.li@student.unsw.edu.au
 <!--
