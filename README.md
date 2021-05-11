@@ -2,10 +2,11 @@
 
 ### __Hi there!__ 👋
 
-Hi, I'm [xxxbrian](https://github.com/xxxbrian), 
+Hi, I'm [xxxbrian](xxxbrian.me), 
 a __Student__ studying at the ___University of New South Wales___. 	🎓
 
 📫 bojin.li@student.unsw.edu.au
+
 <!--
 💬 Ask me about anything [here](https://github.com/xxxbrian/xxxbrian/issues).
 
