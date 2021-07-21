@@ -2,10 +2,12 @@
 
 ### __Hi there!__ 👋
 
-Hi, I'm [xxxbrian](https://xxxbrian.me), 
+Hi, I'm [xxxbrian](https://xxxbrian.me/about/), 
 a __Student__ studying at the ___University of New South Wales___. 	🎓
 
-📫 bojin.li@student.unsw.edu.au
+📫 bojin.li@qq.com
+
+⚡ [bojin.co](https://bojin.co) 🌱 [My Blog](https://xxxbrian.me)
 
 <!--
 💬 Ask me about anything [here](https://github.com/xxxbrian/xxxbrian/issues).
