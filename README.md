@@ -5,7 +5,7 @@
 Hi, I'm [xxxbrian](https://xxxbrian.me/about/), 
 a __Student__ studying at the ___University of New South Wales___. 	🎓
 
-📫 bojin.li@qq.com
+📫 bojin.li@foxmail.com
 
 ⚡ [bojin.co](https://bojin.co) 🌱 [My Blog](https://xxxbrian.me)
 
