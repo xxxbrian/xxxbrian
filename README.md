@@ -7,7 +7,7 @@ a __Student__ studying at the ___University of New South Wales___. 	🎓
 
 📫 bojin.li@foxmail.com
 
-⚡ [bojin.co](https://bojin.co) 🌱 [My Blog](https://xxxbrian.me)
+⚡ [bojin.co](https://bojin.co) 🌱 [My Blog](https://blog.bojin.co)
 
 <!--
 💬 Ask me about anything [here](https://github.com/xxxbrian/xxxbrian/issues).
