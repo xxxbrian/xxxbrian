@@ -2,7 +2,7 @@
 
 ### __Hi there!__ 👋
 
-Hi, I'm [xxxbrian](https://xxxbrian.me/about/), 
+Hi, I'm [xxxbrian](https://bojin.co), 
 a __Student__ studying at the ___University of New South Wales___. 	🎓
 
 📫 bojin.li@foxmail.com
