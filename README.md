@@ -5,9 +5,9 @@
 Hi, I'm [xxxbrian](https://bojin.co), 
 a __Student__ studying at the ___University of New South Wales___. 	🎓
 
-📫 bojin.li@foxmail.com
+💬 [**My Homepage**](https://bojin.co)
 
-⚡ [bojin.co](https://bojin.co) 🌱 [My Blog](https://blog.bojin.co)
+📫 bojin.li@foxmail.com
 
 <!--
 💬 Ask me about anything [here](https://github.com/xxxbrian/xxxbrian/issues).
