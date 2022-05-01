@@ -12,4 +12,11 @@ a __Student__ studying at the ___University of New South Wales___. 	🎓
 [![Telegram](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2Fbojinli&query=key&color=2CA5E0&label=Telegram&labelColor=282c34&logo=telegram&cacheSeconds=3600)](https://t.me/bojinli)
 [![Email](https://img.shields.io/badge/Email-bojin.li%40foxmail-orange)]()
 <!--START_SECTION:waka-->
+
+```text
+Python   2 hrs 49 mins   ████████████████▒░░░░░░░░   65.50 %
+C        1 hr 28 mins    ████████▓░░░░░░░░░░░░░░░░   34.44 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+```
+
 <!--END_SECTION:waka-->
