@@ -17,5 +17,12 @@ a __Student__ studying at the ___University of New South Wales___. 	🎓
 ⚡ **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
+```text
+From: 24 April 2022 - To: 01 May 2022
+
+Python   2 hrs 49 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀   65.50 %
+C        1 hr 28 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.44 %
+Text     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.06 %
+```
 
 <!--END_SECTION:waka-->
