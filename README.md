@@ -1,9 +1,18 @@
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=xxxbrian&show_icons=true&&theme=default&hide=["contribs"]&&hide_title=true' /> 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=xxxbrian.xxxbrian">
 
-### __Hi there!__ 👋
+<h2 align="center">
+  Welcome to Bojin Li's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
-Hi, I'm [xxxbrian](https://bojin.co), 
-a __Student__ studying at the ___University of New South Wales___. 	🎓
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira&color=FF822D&center=true&vCenter=true&lines=Hi+there!+;I+am+xxxbrian.;A+Developer+%2F+Designer;%23UNSW+Student.;Appearance+complex.;Nice+to+meet+you+here~"></a>
+</p>
+
+**A Student.**
+
+Currently studying in **University of New South Wales** for a degree in Computer Science. 🎓
 
 [![bojin.co](https://img.shields.io/badge/Website-bojin.co-blueviolet)](https://bojin.co)
 [![Twitter](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftwitter%2Fbojinli&query=count&color=1da1f2&label=Twitter&labelColor=282c34&logo=twitter&suffix=+follows&cacheSeconds=3600)](https://twitter.com/bojinli)
@@ -12,9 +21,9 @@ a __Student__ studying at the ___University of New South Wales___. 	🎓
 [![Telegram](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2Fbojinli&query=key&color=2CA5E0&label=Telegram&labelColor=282c34&logo=telegram&cacheSeconds=3600)](https://t.me/bojinli)
 [![Email](https://img.shields.io/badge/Email-bojin.li%40foxmail-orange)]()
 
--------
+<hr>
 
-⚡ **Weekly development breakdown**
+<h3 align="center">⚡Development breakdown⚡</h3>
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-83-blue)
 
