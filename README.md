@@ -28,7 +28,7 @@ Currently studying in **University of New South Wales** for a degree in Computer
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 806 Contributions in the Year 2022
+> 🏆 807 Contributions in the Year 2022
  > 
 > 📦 302.9 kB Used in GitHub's Storage 
  > 
@@ -68,5 +68,5 @@ Mac                      39 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 2022-10-29 16:24:22 UTC
+ Last Updated on 2022-10-30 01:52:17 UTC
 <!--END_SECTION:waka-->
