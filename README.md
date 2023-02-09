@@ -28,7 +28,7 @@ Currently studying in **University of New South Wales** for a degree in Computer
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 43 Contributions in the Year 2023
+> 🏆 44 Contributions in the Year 2023
  > 
 > 📦 303.6 kB Used in GitHub's Storage 
  > 
@@ -42,9 +42,9 @@ Currently studying in **University of New South Wales** for a degree in Computer
 
 ```text
 🌞 Morning    11 commits     ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.2% 
-🌆 Daytime    97 commits     ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.44% 
+🌆 Daytime    98 commits     ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.64% 
 🌃 Evening    150 commits    ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.06% 
-🌙 Night      241 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.3%
+🌙 Night      240 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.1%
 
 ```
 
@@ -55,19 +55,20 @@ Currently studying in **University of New South Wales** for a degree in Computer
 ⌚︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Python                   42 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.93% 
-JavaScript               29 mins             ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.79% 
-Other                    23 mins             ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.12% 
-Markdown                 9 mins              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   9.16%
+Python                   2 hrs 43 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   72.06% 
+JavaScript               29 mins             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.85% 
+Other                    23 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.22% 
+Markdown                 9 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.23% 
+Text                     1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.64%
 
 🔥 Editors: 
-VS Code                  1 hr 44 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+VS Code                  3 hrs 46 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
 
 💻 Operating System: 
-Mac                      1 hr 44 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+Mac                      3 hrs 46 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
 
 ```
 
 
- Last Updated on 2023-02-08 01:12:20 UTC
+ Last Updated on 2023-02-09 16:20:57 UTC
 <!--END_SECTION:waka-->
