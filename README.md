@@ -28,7 +28,7 @@ Currently studying in **University of New South Wales** for a degree in Computer
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 80 Contributions in the Year 2023
+> 🏆 81 Contributions in the Year 2023
  > 
 > 📦 410.6 kB Used in GitHub's Storage 
  > 
@@ -55,20 +55,20 @@ Currently studying in **University of New South Wales** for a degree in Computer
 ⌚︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Java                     21 hrs 33 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   86.63% 
-SQL                      2 hrs 21 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   9.48% 
-YAML                     33 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.22% 
-Bash                     10 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.72% 
-Docker                   7 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.54%
+Java                     32 hrs 11 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   75.26% 
+SQL                      6 hrs 24 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.98% 
+Python                   3 hrs 8 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   7.35% 
+YAML                     35 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.38% 
+Bash                     10 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.42%
 
 🔥 Editors: 
-VS Code                  24 hrs 53 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+VS Code                  42 hrs 46 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
 
 💻 Operating System: 
-Mac                      24 hrs 53 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+Mac                      42 hrs 46 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
 
 ```
 
 
- Last Updated on 2023-03-14 16:24:59 UTC
+ Last Updated on 2023-03-17 16:20:13 UTC
 <!--END_SECTION:waka-->
