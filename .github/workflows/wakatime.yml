@@ -3,8 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # At minute 0 past every 16th hour.
-    - cron: "0 */16 * * *"
+    - cron: "0 */12 * * *"
 
 jobs:
   update-readme:
@@ -16,7 +15,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: "en"
-          COMMIT_BY_ME: "True"
+          # COMMIT_BY_ME: "True"
           COMMIT_MESSAGE: "Updated Readme Stats Info"
           SHOW_UPDATED_DATE: "True"
           UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
