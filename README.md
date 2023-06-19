@@ -30,23 +30,23 @@ Currently studying in **University of New South Wales** for a degree in Computer
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 193 Contributions in the Year 2023
+> 🏆 177 Contributions in the Year 2023
  > 
-> 📦 358.4 kB Used in GitHub's Storage 
+> 📦 360.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 41 Public Repositories 
  > 
-> 🔑 10 Private Repositories  
+> 🔑 11 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    22 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.53% 
-🌆 Daytime    77 commits     ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.85% 
-🌃 Evening    101 commits    ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.97% 
-🌙 Night      137 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.65%
+🌞 Morning    20 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.88% 
+🌆 Daytime    87 commits     ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.59% 
+🌃 Evening    100 commits    ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.41% 
+🌙 Night      133 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.12%
 
 ```
 
@@ -68,5 +68,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 2023-06-18 12:02:12 UTC
+ Last Updated on 2023-06-19 00:30:54 UTC
 <!--END_SECTION:waka-->
