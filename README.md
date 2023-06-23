@@ -30,13 +30,13 @@ Currently studying in **University of New South Wales** for a degree in Computer
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 177 Contributions in the Year 2023
+> 🏆 178 Contributions in the Year 2023
  > 
 > 📦 360.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 41 Public Repositories 
+> 📜 42 Public Repositories 
  > 
 > 🔑 11 Private Repositories  
  > 
@@ -68,5 +68,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 2023-06-22 12:09:19 UTC
+ Last Updated on 2023-06-23 00:34:18 UTC
 <!--END_SECTION:waka-->
