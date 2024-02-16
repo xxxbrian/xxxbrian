@@ -54,19 +54,23 @@ Currently studying in **University of New South Wales** for a degree in Computer
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Australia/Sydney
+⌚︎ Australia/Sydney: Australia/Sydney
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     11 hrs 58 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   75.65% 
+Markdown                 1 hrs 32 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   9.71% 
+TOML                     0 hrs 59 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.19% 
+Python                   0 hrs 26 mins       ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.79% 
+Lua                      0 hrs 24 mins       ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.56%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vscode                   15 hrs 49 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Darwin                   15 hrs 49 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100%
 
 ```
 
 
- Last Updated on 2024-02-16 00:04:13 UTC
+ Last Updated on 2024-02-16 11:01:47 UTC
 <!--END_SECTION:waka-->
