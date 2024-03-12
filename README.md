@@ -30,7 +30,7 @@ Currently studying in **University of New South Wales** for a degree in Computer
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 88 Contributions in the Year 2024
+> 🏆 90 Contributions in the Year 2024
  > 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
@@ -43,10 +43,10 @@ Currently studying in **University of New South Wales** for a degree in Computer
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    22 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.95% 
-🌆 Daytime    109 commits    ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.46% 
-🌃 Evening    108 commits    ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.19% 
-🌙 Night      131 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.41%
+🌞 Morning    22 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.93% 
+🌆 Daytime    109 commits    ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.38% 
+🌃 Evening    108 commits    ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.11% 
+🌙 Night      132 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.58%
 
 ```
 
@@ -57,20 +57,20 @@ Currently studying in **University of New South Wales** for a degree in Computer
 ⌚︎ Australia/Sydney: Australia/Sydney
 
 💬 Programming Languages: 
-Rust                     17 hrs 29 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   57.94% 
-Python                   5 hrs 16 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.45% 
-HTML                     3 hrs 3 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.08% 
-unknown                  2 hrs 15 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   7.48% 
-Text                     0 hrs 52 mins       ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.89%
+Rust                     18 hrs 17 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   57.41% 
+Python                   5 hrs 26 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.06% 
+HTML                     3 hrs 3 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   9.55% 
+unknown                  2 hrs 17 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   7.18% 
+Text                     0 hrs 52 mins       ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   2.74%
 
 🔥 Editors: 
-Vscode                   30 hrs 11 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100%
+Vscode                   31 hrs 51 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100%
 
 💻 Operating System: 
-Darwin                   30 hrs 11 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100%
+Darwin                   31 hrs 51 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100%
 
 ```
 
 
- Last Updated on 2024-03-11 12:02:53 UTC
+ Last Updated on 2024-03-12 00:04:06 UTC
 <!--END_SECTION:waka-->
