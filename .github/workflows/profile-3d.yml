@@ -16,6 +16,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 200
+          SETTING_JSON: profile-3d-contrib.json
       - name: Commit & Push
         run: |
           git config user.name github-actions
